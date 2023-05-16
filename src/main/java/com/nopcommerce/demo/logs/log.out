@@ -1,0 +1,3 @@
+2023-05-16 15:05:95 INFO  LoginPage :31 - Enter password secret_sauce to email field [[ChromeDriver: chrome on WINDOWS (f057f36929a9f103867aeae2e8ece877)] -> id: password]
+2023-05-16 15:05:344 INFO  LoginPage :38 - click on log in button Proxy element for: DefaultElementLocator 'By.xpath: //input[@class='submit-button btn_action']'
+2023-05-16 15:05:386 INFO  InventoryPage :25 - Title of the page [[ChromeDriver: chrome on WINDOWS (f057f36929a9f103867aeae2e8ece877)] -> xpath: //span[@class='title']]
